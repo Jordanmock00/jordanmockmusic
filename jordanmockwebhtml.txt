@@ -1,0 +1,55 @@
+<div class="wrapper">
+  
+  <!-- OVERLAY
+  =============================== -->
+  <div class="overlay first"></div>
+  <div class="overlay second"></div>
+  <div class="overlay third"></div>
+  
+  <!-- NAVBAR 
+  =============================== -->
+  <div class="navbar">
+     <div class="menu">
+       <ion-icon name="menu-outline"></ion-icon>
+    </div>
+    <div class="lang">Eng</div>
+    <div class="search">
+      <ion-icon name="search-outline"></ion-icon>
+    </div>
+  </div>
+  
+  <!-- SOCIAL MEDIA 
+  =============================== -->
+  <div class="media">
+    <ul>
+      <li>facebook</li>
+      <li>instagram</li>
+      <li>twitter</li>
+      <li>spotify</li>
+      <li>pandora</li>
+      <li>store</li>
+    </ul>
+  </div>
+  
+  <!-- TEXT 
+  ============================= -->
+  <div class="text">
+        <h1><span class="hide--text">mock</span></h1>
+        <h2>jordan</h2>
+        <h3>
+          <span class="hide--text">music is life <br />music is light</span>
+        </h3>
+        <p>
+          <span class="hide--text">
+        Singer, songwriter, instrumentalist 
+          </span>
+        </p>
+      </div>
+  
+
+  <div class="love">
+    <p>music is love</p>
+  </div>
+  
+  
+</div>
